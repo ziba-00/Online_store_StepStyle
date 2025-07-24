@@ -1,0 +1,30 @@
+# Sanal ortam klasörü
+venv/
+env/
+
+# Python cache dosyaları
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Django veritabanı dosyası
+db.sqlite3
+
+# Ortam değişkenleri (şifre vs.)
+.env
+
+# Ortaya çıkan medya ve statik dosyalar
+media/
+staticfiles/
+
+# PyCharm ayarları
+.idea/
+*.iml
+
+# VSCode ayarları
+.vscode/
+
+# MacOS dosyası
+.DS_Store
